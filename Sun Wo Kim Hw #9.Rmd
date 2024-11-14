@@ -1,5 +1,6 @@
 ---
 title: 'Sun Wo Kim Hw #9'
+author: "Sun Wo Kim, Arifa Begum, Nene Diallo, Maria Camila, Leonardo Alcaide"
 output: html_document
 date: "2024-11-07"
 ---
